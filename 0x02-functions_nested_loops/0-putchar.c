@@ -2,8 +2,8 @@
 
 
 /**
- * main -Entry point pf mu code
- * 
+ * main -Entry point of my code,
+ *
  * Return: Always 0
  */
 
